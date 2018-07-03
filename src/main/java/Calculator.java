@@ -6,4 +6,7 @@ public class Calculator {
 
 		return a*b;
 	}
+
+	//Remove the error
+
 }
